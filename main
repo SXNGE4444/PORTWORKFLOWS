@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 5b249fca2095198453e58d3481df53d09fb03dae lsmptylastsayma <47720144-lsmptylastsayma@users.noreply.replit.com> 1758141154 +0000	commit (initial): Initial commit
+5b249fca2095198453e58d3481df53d09fb03dae 14c65356ebe636a10879b211adc94e5f1c8f6a24 lsmptylastsayma <47720144-lsmptylastsayma@users.noreply.replit.com> 1758141850 +0000	commit: Add database connection and core application structure
+14c65356ebe636a10879b211adc94e5f1c8f6a24 cc8ef345ef28f7657a1df30e8b3e916a4e43fb72 lsmptylastsayma <47720144-lsmptylastsayma@users.noreply.replit.com> 1758142987 +0000	commit: Add PayPal payment integration for subscription management
